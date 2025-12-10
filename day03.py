@@ -1,5 +1,4 @@
 # --- Day 3: Lobby ---
-from itertools import combinations
 
 with open("input03.txt") as file:
     total_one = 0
